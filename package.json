@@ -9,7 +9,7 @@
     "sass": "^1.63.4"
   },
   "scripts": {
-    "sass": "sass source/main.scss source/config/style.css --watch",
+    "sass": "sass source/main.scss build/style.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
